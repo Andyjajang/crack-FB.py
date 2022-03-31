@@ -154,7 +154,7 @@ while True:
             if search:
                 print "[+] password : "+w+" Benar."
             else:
-                print "[+] password: "+w+" Salah.
+                print "[+] password: "+w+" Salah."
 password
 12345678
 123456789
